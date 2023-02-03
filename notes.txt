@@ -1,0 +1,11 @@
+Je propose de créer une branche distincte pour chaque nouveau projet ou fonctionnalité et d'utiliser les "pull requests" et
+les "issues" de GitHub pour gérer les modifications et les demandes. Nous devrions également créer des "milestones" pour nous
+aider à suivre l'évolution du projet et à mieux comprendre les étapes à venir et les défis à relever. Enfin, nous devrions 
+instaurer une politique stricte de vérification pour les ajouts de code afin de s'assurer que tous les ajouts sont de qualité
+et de garantir la sécurité et la fiabilité du projet.
+
+Nous proposons d'instaurer une politique stricte de vérification pour les ajouts de code à pyReact afin de garantir la sécurité
+et la fiabilité du projet. Chaque ajout devrait être soumis à un examen approfondi et à une revue par les pairs afin de s'assurer
+que le code est de qualité et ne comporte pas de vulnérabilités. Les membres de l'équipe devraient également se conformer aux
+normes de codage établies et à un processus de validation des modifications de code. L'équipe devrait également former des réviseurs
+qualifiés pour s'assurer que tous les ajouts sont examinés et approuvés par des experts.
