@@ -1,19 +1,10 @@
 #!/usr/bin/python3
 """
-- Ecrire une base de code pour un framework python et open source nommé pyReact.
-Tous comme react js elle permet d'ecrire des composant fronte-end pour une application web.
-plus perfotmante et plus rapide que react js.
-- Creer un serveur python qui renvoi les vues creer au navigateur
-- Rediger un fichier readme.md expliquant les objectifs et comment contribuer
-- Donner des sugestion en pour ameliorer le code existant
+    React for python programming
 """
-
-def bonjour():
-    print("Bonjour!")
-
-bonjour()
-
-import pyReact
+#import pyReact
+from React import pyReact
+from React.pyReact import React
 
 class Composant(pyReact.Component):
     def __init__(self, props):
@@ -38,6 +29,7 @@ c = Composant({"data": "Hello World!"})
 
 # Créer un élément à partir du composant
 e = c.createElement()
+print(e)
 
 # Afficher le composant
 c.render(e)
